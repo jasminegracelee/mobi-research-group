@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shari Baum, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor & Vice Dean of Research, Faculty of Medicine
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: McGill University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include needs to be updated.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bilingualism across the lifespan
+- Neural underpinnings of language
+- Individual differences in the bilingual experience
 
 education:
   courses:
