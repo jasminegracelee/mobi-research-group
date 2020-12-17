@@ -1,4 +1,4 @@
----
+
 # An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: people
@@ -26,4 +26,4 @@ design:
   show_interests: false
   show_role: true
   show_social: true
----
+
