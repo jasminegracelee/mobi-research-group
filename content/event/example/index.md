@@ -4,7 +4,7 @@ title: Example Event
 # This page represents an event/talk.
 type: talk
 
-event: Invited Talk: Tamar Gollan, PhD
+event: Invited Talk by Tamar Gollan, PhD
 event_url: https://example.org
 
 location: zoom link
