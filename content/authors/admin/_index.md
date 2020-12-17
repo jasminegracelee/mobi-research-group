@@ -3,7 +3,7 @@
 title: Shari Baum, PhD
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Professor & Vice Dean of Research, Faculty of Medicine
