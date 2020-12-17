@@ -4,7 +4,7 @@ title: Example Event
 # This page represents an event/talk.
 type: talk
 
-event: Wowchemy Conference
+event: Invited Talk: Tamar Gollan, PhD
 event_url: https://example.org
 
 location: Wowchemy HQ
