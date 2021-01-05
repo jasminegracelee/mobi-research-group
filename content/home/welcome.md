@@ -3,6 +3,13 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
+ background:
+  image: welcome.jpg
+  image_darken: 0.8
+  image_size: cover
+  image_position: center
+  image_parallax: true
+  text_color_light: true
   
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
