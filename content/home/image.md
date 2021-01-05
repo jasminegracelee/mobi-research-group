@@ -16,6 +16,14 @@ weight: 30
 title:
 subtitle:
 
+ background:
+  image: welcome.jpg
+  image_darken: 0.6
+  image_size: cover
+  image_position: center
+  image_parallax: true
+  text_color_light: true
+
 # design:
  # columns: "1"
   # background:
@@ -30,11 +38,5 @@ subtitle:
 # advanced:
  #  css_class: fullscreen
   
-  background:
-  image: welcome.jpg
-  image_darken: 0.6
-  image_size: cover
-  image_position: center
-  image_parallax: true
-  text_color_light: true
+ 
 ---
