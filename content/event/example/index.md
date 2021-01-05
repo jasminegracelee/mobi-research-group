@@ -1,5 +1,8 @@
+
 ---
+<!--
 title: Example Event
+-->
 <!--
 # This page represents an event/talk.
 type: talk
