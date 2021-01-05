@@ -23,6 +23,14 @@ design:
 advanced:
   css_style:
   css_class:
+
+ background:
+  image: welcome.jpg
+  image_darken: 0.8
+  image_size: cover
+  image_position: center
+  image_parallax: true
+  text_color_light: true
 ---
 
 The Montreal Bilingual Brain Initiative (MOBI) is a team grant funded by the Fonds de recherche société et culture du Québec (FRQSC). Research conducted through the team grant centres around four axes:
