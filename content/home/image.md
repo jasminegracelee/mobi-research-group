@@ -29,4 +29,12 @@ design:
     padding: ["20px", "0", "20px", "0"]
 advanced:
   css_class: fullscreen
+  
+  background:
+  image: welcome.jpg
+  image_darken: 0.6
+  image_size: cover
+  image_position: center
+  image_parallax: true
+  text_color_light: true
 ---
