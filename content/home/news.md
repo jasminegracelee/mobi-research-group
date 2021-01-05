@@ -3,10 +3,8 @@
 widget: pages
 headless: false
 weight: 20
-<!--
 title: Latest News
 subtitle:
-<!--
 content:
   count: 5
   filters:
