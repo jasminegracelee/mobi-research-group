@@ -11,7 +11,7 @@
   image_parallax: true
   text_color_light: true
   
-widget: hero  # See https://wowchemy.com/docs/page-builder/
+widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: The Montreal Bilingual Brain Initiative
