@@ -3,7 +3,7 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
  background:
-  image: SainteFamille.jpg
+  image: SainteFamille.jpeg
   image_darken: 0.8
   image_size: cover
   image_position: center
