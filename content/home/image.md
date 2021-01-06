@@ -27,10 +27,10 @@ subtitle:
     image_position: center
     image_parallax: true
     text_color_light: true
-   spacing:
-    padding: ["20px", "0", "20px", "0"]
- advanced:
-   css_class: fullscreen
+   # spacing:
+    # padding: ["20px", "0", "20px", "0"]
+ # advanced:
+  #  css_class: fullscreen
   
  
 ---
