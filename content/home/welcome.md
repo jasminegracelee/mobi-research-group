@@ -33,7 +33,7 @@ advanced:
 ---
 
 # **The Montreal Bilingual Brain Initiative (MOBI)** 
- ### The MOBI team grant is funded by the Fonds de recherche société et culture du Québec (FRQSC [I'm a link](http://www.frqs.gouv.qc.ca/en/)). Research conducted through the team grant centres around 4 axes:
+ ### The MOBI team grant is funded by the Fonds de recherche société et culture du Québec ([FRQSC](http://www.frqsc.gouv.qc.ca)). Research conducted through the team grant centres around 4 axes:
 
   1. Acquisition Context and its Relation to Multilingual Performance
   2. Cognitive & Interpersonal Advantages of Multilingualism Across the Lifespan
