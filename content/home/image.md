@@ -21,7 +21,7 @@ subtitle:
  design:
   columns: "1"
   background:
-    image: SainteFamille.jpeg
+    image: welcome.jpg
     image_darken: 0.6
     image_size: cover
     image_position: center
