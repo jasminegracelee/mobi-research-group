@@ -23,7 +23,7 @@ design:
 advanced:
   css_style:
   css_class:
-
+{{< figure library="true" src="SainteFamille.jpg" title="A caption" >}} 
  background:
   image: welcome.jpg
   image_darken: 0.8
@@ -34,7 +34,7 @@ advanced:
 ---
 
 #### **The Montreal Bilingual Brain Initiative (MOBI)** 
-is a team grant funded by the Fonds de recherche société et culture du Québec (FRQSC). Research conducted through the team grant centres around four axes:
+    is a team grant funded by the Fonds de recherche société et culture du Québec (FRQSC). Research conducted through the team grant centres around four axes:
 
   1. Acquisition Context and its Relation to Multilingual Performance
   2. Cognitive & Interpersonal Advantages of Multilingualism Across the Lifespan
