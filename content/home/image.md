@@ -16,11 +16,11 @@ weight: 30
 title:
 subtitle:
 
+{{< figure library="true" src="welcome.jpg" title="A caption" >}}
 
-
- design:
-  columns: "1"
-  background:
+ # design:
+  # columns: "1"
+ # background:
     image: welcome.jpg
     image_darken: 0.6
     image_size: cover
