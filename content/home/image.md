@@ -18,19 +18,19 @@ subtitle:
 
 
 
-# design:
- # columns: "1"
+ design:
+  columns: "1"
   background:
-    image: welcome.jpg
+    image: SainteFamille.jpeg
     image_darken: 0.6
     image_size: cover
     image_position: center
     image_parallax: true
     text_color_light: true
-  # spacing:
- #   padding: ["20px", "0", "20px", "0"]
-# advanced:
- #  css_class: fullscreen
+   spacing:
+    padding: ["20px", "0", "20px", "0"]
+ advanced:
+   css_class: fullscreen
   
  
 ---
