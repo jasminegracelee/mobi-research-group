@@ -7,7 +7,6 @@ headless: true
 
 
 background:
-{{< figure library="true" src="SainteFamille.jpeg" title="A caption" >}}
   image: SainteFamille.jpeg
   image_darken: 0.6
   image_size: cover
