@@ -1,25 +1,22 @@
 ---
 # Display name
-title: Shari Baum, PhD
+title: SAMPLE NAME
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor & Vice Dean of Research, Faculty of Medicine
+role: Professor 
 
 # Organizations/Affiliations
 organizations:
-- name: McGill University
-  url: "https://www.mcgill.ca/scsd/shari-r-baum-phd"
+- name:  University
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include needs to be updated.
 
-interests:
-- Bilingualism across the lifespan
-- Neural underpinnings of language
-- Individual differences in the bilingual experience
+
 
 # education:
   # courses:
